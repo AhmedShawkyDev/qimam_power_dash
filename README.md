@@ -1,4 +1,4 @@
-![Qimam_saudia]()
+![Qimam_saudia](qimam_dashboard.png)
 Key Business Insights Extracted:
 - Revenue vs. Backlog Contrast: 
 While the Financial sector shows a healthier collection rate with actual paid amounts reaching 253K, the Advertising sector holds the highest potential contract value at 326.86K, yet suffers from a higher backlog with only 214K collected so far.
